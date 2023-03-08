@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  header{
+    margin: 0 auto;
+  }
+
+  h1, p{
+    text-align: center;
+  }
+
+   ul {
+    display: flex;
+    list-style-type: none;
+    margin: auto;
+  }
+
+  nav li {
+    margin: 0 auto;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: #fc03cf;
+  
+  }
+
+
+
+
+  span{
+   color: #fc03cf;
+  }
